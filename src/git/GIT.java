@@ -6,6 +6,9 @@ public class GIT {
 		// TODO Auto-generated method stub
 		//comment
 		//busy too
+		// testing conflicts	
+		
+		
 	}
 
 }
